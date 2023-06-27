@@ -27,4 +27,3 @@ How to Use the Mood Tracker Widget:
 
 ![image.png](https://res.craft.do/user/full/55fbf0f6-b802-cfae-f9ae-874a9e8e032d/doc/494c0b76-92cb-44f0-a223-f6946f7318da/48985459-d9cf-45cd-a187-a7598932eae0)
 
-?descriptionFromFileType=function+toLocaleUpperCase()+{+[native+code]+}+File&mimeType=application/octet-stream&fileName=Planner+App+–+Your+Custom+Widget.md&fileType=undefined&fileExtension=md
