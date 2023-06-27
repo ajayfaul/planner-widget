@@ -1,0 +1,41 @@
+.my-custom-widget {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .my-custom-widget h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .mood-options {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .mood-option {
+    padding: 10px 20px;
+    background-color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .mood-option.selected {
+    background-color: #5cb85c;
+    color: #fff;
+  }
+  
+  .selected-mood {
+    font-size: 18px;
+    color: #777;
+  }
+  
